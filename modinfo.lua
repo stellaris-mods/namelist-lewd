@@ -4,7 +4,7 @@ return {
 	name = "Lewd Names",
 	tags = { "Species", "Leaders" },
 	picture = "thumb.png",
-	supported_version = "1.6.*",
+	supported_version = "1.8.*",
 	remote_file_id = 796310459,
 	readme = "readme.md",
 	steambb = "steam.bbcode",
